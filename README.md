@@ -39,7 +39,7 @@ I(X;Y)=H(X)+H(Y)-H(X,Y),
 
 where
 
-H(x), H(y) are entropy of x and Y , H9x,y) is the joint entropy
+H(x), H(y) are entropy of x and Y , H(x,y) is the joint entropy
 
 
 
