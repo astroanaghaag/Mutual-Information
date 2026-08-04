@@ -39,19 +39,7 @@ I(X;Y)=H(X)+H(Y)-H(X,Y),
 
 where
 
-\[
-H(X)=-\sum_i p(x_i)\ln p(x_i),
-\]
-
-\[
-H(Y)=-\sum_j p(y_j)\ln p(y_j),
-\]
-
-and
-
-\[
-H(X,Y)=-\sum_i\sum_j p(x_i,y_j)\ln p(x_i,y_j).
-\]
+H(x), H(y) are entropy of x and Y , H9x,y) is the joint entropy
 
 
 
