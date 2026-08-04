@@ -45,7 +45,10 @@ The procedure is:
 4. Choose the corresponding value of `n` from this saturation region for all subsequent entropy and Mutual Information calculations.
 
 
-## 
+## References
+ Cover, T. M., & Thomas, J. A. (2006),
+*Elements of Information Theory*,
+Wiley.
 
 
 
@@ -55,9 +58,9 @@ The procedure is:
 
 
 If you use this code, please cite:
-Cover, T. M., & Thomas, J. A. (2006),
+1. Cover, T. M., & Thomas, J. A. (2006),
 *Elements of Information Theory*,
 Wiley.
 
-Anagha A G. Mutual Information Calculator. GitHub repository.
+2. Anagha A G. Mutual Information Calculator. GitHub repository.
 https://github.com/username/repository-name
