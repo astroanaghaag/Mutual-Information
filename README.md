@@ -53,14 +53,3 @@ Wiley.
 
 
 
-## Citation
-
-
-
-If you use this code, please cite:
-1. Cover, T. M., & Thomas, J. A. (2006),
-*Elements of Information Theory*,
-Wiley.
-
-2. Anagha A G. Mutual Information Calculator. GitHub repository.
-https://github.com/username/repository-name
