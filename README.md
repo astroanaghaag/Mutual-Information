@@ -31,6 +31,31 @@ The input may be
 
 Depending on the implementation.
 
+The Mutual Information (MI) between two variables \(X\) and \(Y\) is computed from their individual and joint entropies as
+
+\[
+I(X;Y)=H(X)+H(Y)-H(X,Y),
+\]
+
+where
+
+\[
+H(X)=-\sum_i p(x_i)\ln p(x_i),
+\]
+
+\[
+H(Y)=-\sum_j p(y_j)\ln p(y_j),
+\]
+
+and
+
+\[
+H(X,Y)=-\sum_i\sum_j p(x_i,y_j)\ln p(x_i,y_j).
+\]
+
+
+
+
 ## Entropy estimation
 
 The entropy of a variable is estimated using a histogram-based probability distribution. Given a dataset \(X\), the data are divided into \(n\) histogram bins, and the probability of each bin is calculated
