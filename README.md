@@ -19,8 +19,8 @@ The program requires two datasets of equal length.
 Example:
 
 ```
-x = [x₁, x₂, ..., xₙ]
-y = [y₁, y₂, ..., yₙ]
+x = [x₁, x₂, ...]
+y = [y₁, y₂, ...]
 ```
 
 The input may be
